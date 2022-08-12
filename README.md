@@ -17,5 +17,5 @@ $ brew install duckdb
 You have succeeded if you have DuckDB and can run the "hello world" test program. Well done!
 
 ## 001_hello_world.sql
-This is a test program to make sure that DuckDB is installed and working. For more information, please see the blog.
+This is a test program to make sure that DuckDB is installed and working. For more information, please see the [blog](https://sevakumar.blogspot.com/2022/08/how-to-setup-duckdb-in-60-seconds.html).
 
